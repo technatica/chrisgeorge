@@ -1,2 +1,0 @@
-# chrisgeorge
-Personal website.
