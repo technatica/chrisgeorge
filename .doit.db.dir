@@ -288,3 +288,4 @@
 'render_pages:output/posts/summer/index.html', (1863680, 4690)
 'render_posts:cache/posts/summer.html', (1886208, 348)
 'render_taxonomies:output/categories/ecolocide/index.html', (1886720, 1821)
+'copy_files:output/CNAME', (1901568, 230)
