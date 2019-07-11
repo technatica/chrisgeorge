@@ -19,15 +19,19 @@
  </url>
  <url>
   <loc>https://www.chrisgeorge.ca/archive.html</loc>
-  <lastmod>2019-07-10T18:43:00Z</lastmod>
+  <lastmod>2019-07-11T20:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.chrisgeorge.ca/categories/</loc>
-  <lastmod>2019-07-10T18:46:00Z</lastmod>
+  <lastmod>2019-07-11T20:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.chrisgeorge.ca/categories/agw/</loc>
   <lastmod>2019-02-06T21:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.chrisgeorge.ca/categories/ecolocide/</loc>
+  <lastmod>2019-07-11T20:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.chrisgeorge.ca/categories/feelin/</loc>
@@ -107,7 +111,7 @@
  </url>
  <url>
   <loc>https://www.chrisgeorge.ca/index-2.html</loc>
-  <lastmod>2019-07-10T18:43:00Z</lastmod>
+  <lastmod>2019-07-11T20:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.chrisgeorge.ca/listings/</loc>
@@ -140,6 +144,10 @@
  <url>
   <loc>https://www.chrisgeorge.ca/posts/sippy-straw/</loc>
   <lastmod>2018-10-03T16:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.chrisgeorge.ca/posts/summer/</loc>
+  <lastmod>2019-07-11T20:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.chrisgeorge.ca/posts/the-piano/</loc>
