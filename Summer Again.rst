@@ -13,7 +13,7 @@ On the up side the black currants are lovely; fat, juicy, and if not sweet, at l
 
 The tomatoes and the basil are struggling a bit. Next year we'll stick some peas in the ground to give us more weather options.
 
-The cannbis plants, on the other hand, are lovely. This is the first season that we can grow it here legally in Canada. The ones in pots are booming right along and the one in the ground is finally starting to stretch a bit as it digs its roots in. Only a couple of months to wait and we'll see what outdoor grown B.C. bud is like here this year.
+The cannabis plants, on the other hand, are lovely. This is the first season that we can grow it here legally in Canada. The ones in pots are booming right along and the one in the ground is finally starting to stretch a bit as it digs its roots in. Only a couple of months to wait and we'll see what outdoor grown B.C. bud is like here this year.
 
 And I am still waiting for the smoke.
 
