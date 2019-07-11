@@ -1,5 +1,5 @@
 #@+leo-ver=5-thin
-#@+node:chris.20181004101048.1: * @file ~/Websites/chrisgeorge.ca/conf.py
+#@+node:chris.20181004101048.1: * @file ~/Websites/chrisgeorge/conf.py
 # -*- coding: utf-8 -*-
 
 # configure this
